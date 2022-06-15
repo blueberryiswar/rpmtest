@@ -2,7 +2,7 @@
 null,
 {"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"mark1","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"mark1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mark","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor1_2","characterIndex":0,"characterName":"sarah","classId":2,"equips":[1,0,0,9,0],"faceIndex":0,"faceName":"sarah","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sarah","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"paulo","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"paulo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Paulo","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"maria","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"maria","traits":[],"initialLevel":1,"maxLevel":99,"name":"Maria","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"","characterIndex":0,"characterName":"jesus","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"jesus","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jesus","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"paulo","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"paulo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Paulo","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"maria","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"maria","traits":[],"initialLevel":1,"maxLevel":99,"name":"Maria","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"jesus","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"jesus","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jesus","nickname":"","note":"","profile":""}
 ]
